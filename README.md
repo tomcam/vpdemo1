@@ -1,3 +1,3 @@
 # Title
 
-Fascinating sentence
+Fascinating sentence. Visit [new.md](./new.md)
